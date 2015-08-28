@@ -68,3 +68,9 @@ header.global.slim h2 {
         margin-left: -25px;
         width: 45px;
     }
+
+.btn-blue, .dashboard-banner .wrapper-msg .msg.has-actions .donate-actions .action-donate, .login-register .action-primary, .verification-process .carousel .wrapper-task .controls .control .action, .verification-process .carousel .wrapper-task .msg .list-actions .action-retakephotos a, .verification-process .carousel #wrapper-review .review-task-name .list-actions .action-editname a, .verification-process.step-select-track .register-choice-audit .action-select input, .verification-process.step-confirmation .course-info .options .action-course, .verification-process.step-confirmation .course-info .course-actions .action-dashboard, .reverify-blocked .action-primary, .wrapper-auto-cert .auto-cert-message .has-actions .msg-actions .btn {
+    box-shadow: 0 2px 1px 0 #779f59;
+    background: #779f59;
+    color: #fff;
+}
